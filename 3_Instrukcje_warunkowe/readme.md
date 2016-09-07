@@ -17,7 +17,7 @@ W celu wypisania czegoś w konsoli &ndash;  użyj funkcji ```console.log```, np:
 console.log("Tekst, który pokaże się w konsoli");
 ```
 -------------------------------------------------------------------------------
-## Zadanie 2
+#### Zadanie 2
 Stwórz zmienną, która będzie przetrzymywała stan pogody np.:
 ```JavaScript
 var weather = "deszczowo";
@@ -29,5 +29,5 @@ Możliwe scenariusze:
 * "słonecznie" - weź okulary przeciwsłoneczne
 
 
-## Zadanie 3
+#### Zadanie 3
 W pliku **zadanie03.js** &ndash; jest przykładowa funkcja obliczająca proste równania. Niestety nie działa ona dobrze. Znajdź błąd i go napraw, tak żeby funkcja działała. Dopisz dodatkowe testy, żeby sprawdzić, czy wszystkie przypadki działają. Zadanie ma być rozwiązane w tym samym pliku.
