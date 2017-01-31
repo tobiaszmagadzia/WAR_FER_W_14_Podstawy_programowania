@@ -34,7 +34,7 @@ Stwórz tablicę z dowolnymi liczbami. Następnie oblicz średnią arytmetyczną
 
 ```JavaScript
 var avg = [4, 4, 1, 2, 5, 40];
-Wynik w consoli: 22.666
+Wynik w consoli: 9.333
 ```
 
 ### Zadanie 2 (~ 10min - 15 min)
