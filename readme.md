@@ -1,7 +1,7 @@
 <img alt="Logo" src="http://coderslab.pl/wp-content/themes/coderslab/svg/logo-coderslab.svg" width="400">
 
 
-# Wstęp do JavaScript
+# Wstęp do Programoawnia w JavaScript
 > Kilka ważnych informacji
 
 Przed przystąpieniem do rozwiązywania zadań przeczytaj poniższe wskazówki
@@ -21,15 +21,12 @@ Przed przystąpieniem do rozwiązywania zadań przeczytaj poniższe wskazówki
 
     * Tutaj znajdziesz zadania do zajęć. Kilka na wstępie jest dla wykładowcy, aby pokazał Ci jak rozwiązywać kolejne. Rozwiązuj je na zajęciach. Mentor nie będzie ich sprawdzał, ale w razie wątpliwości przy egzaminie może na nie spojrzeć. Wrzucaj je systematycznie na githuba.
 
-
-* 2_Zadania_domowe
-    * Te zadania wykonaj samodzielnie w domu. Będą one sprawdzane przez mentora. Pamiętaj, aby każde zadanie było w funkcji i zwracało wartości opisane w jego tresci. Zadania dodatkowe są dla chętnych i ambitnych. Ty też jesteś, prawda? :). Zadania dodatkowe zrób w miarę możliwości, możesz je dosłać w każdej chwili. Zapytaj mentora do kiedy musisz oddać zadania podstawowe.
-
-
-* 3_Snippety
+* 2_Snippety
     * Tutaj znajdziesz kawałki kodu rozwiązujące różne problemy, mogą Ci się przydać w trakcie rozwiązywania zadań.
 
-    
+* 3_Zadania_domowe
+    * Te zadania wykonaj samodzielnie w domu. Będą one sprawdzane przez mentora. Pamiętaj, aby każde zadanie było w funkcji i zwracało wartości opisane w jego tresci. Zadania dodatkowe są dla chętnych i ambitnych. Ty też jesteś, prawda? :). Zadania dodatkowe zrób w miarę możliwości, możesz je dosłać w każdej chwili. Zapytaj mentora do kiedy musisz oddać zadania podstawowe.
+
 Poszczególne zadania rozwiązuj w odpowiednich plikach.
 
 
