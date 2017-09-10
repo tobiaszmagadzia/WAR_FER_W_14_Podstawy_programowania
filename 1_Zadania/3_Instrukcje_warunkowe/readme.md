@@ -18,7 +18,7 @@ Stwórz dwie zmienne ```a``` i ```b```. Do obu przypisz wartości liczbowe. Nast
 
 
 ### Zadanie 2 (~ 5min - 10 min)
-W pliku **zadanie03.js** &ndash; jest przykładowa funkcja obliczająca proste równania. Niestety nie działa ona dobrze. Znajdź błąd i go napraw, tak żeby funkcja działała. Dopisz dodatkowe testy, żeby sprawdzić, czy wszystkie przypadki działają. Zadanie ma być rozwiązane w tym samym pliku.
+W pliku **zadanie02.js** &ndash; jest przykładowa funkcja obliczająca proste równania. Niestety nie działa ona dobrze. Znajdź błąd i go napraw, tak żeby funkcja działała. Dopisz dodatkowe testy, żeby sprawdzić, czy wszystkie przypadki działają. Zadanie ma być rozwiązane w tym samym pliku.
 
 ### Zadanie 3 (~ 10min - 15 min)
 Niektórzy ludzie wierzą, że rok życia ludzkiego to siedem lat przeżytych przez psa.
