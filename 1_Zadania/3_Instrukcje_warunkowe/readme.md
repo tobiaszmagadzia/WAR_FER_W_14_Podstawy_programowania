@@ -14,7 +14,7 @@ Wylosuj liczbę z zakresu 1 - 100 i zapisz do zmiennej. Następnie sprawdź za p
 ## Zadania do samodzielnego wykonania
 
 ### Zadanie 1 (~ 5min - 10 min)
-Stwórz dwie zmienne ```a``` i ```b```. Do obu przypisz wartości liczbowe. Następnie za pomocą instrukcji warunkowej wyisz w konsoli, która z nich jest większa.
+Stwórz dwie zmienne ```a``` i ```b```. Do obu przypisz wartości liczbowe. Następnie za pomocą instrukcji warunkowej wypisz w konsoli, która z nich jest większa.
 
 
 ### Zadanie 2 (~ 5min - 10 min)

@@ -41,8 +41,7 @@ output -> "zmiksowana marchewka"
 Napisz funkcję, która przyjmuje jako argument liczbę **n** i wyświetla **n** razy na stronie napis "Programowanie jest fajne!".
 
 ### Zadanie 3 (~ 5min - 10min)
-Napisz funkcję, która przyjmuje jako argumenty trzy liczby i **zwraca** największą z nich (zwraca, a nie wypisuje na ekranie).Wypisać
-możesz dopiero jak zwrócisz wynik z funkcji.
+Napisz funkcję, która przyjmuje jako argumenty trzy liczby i **zwraca** największą z nich (zwraca, a nie wypisuje na ekranie). Wypisać możesz dopiero jak zwrócisz wynik z funkcji.
 
 ### Zadanie 4 (~ 10min - 15min)
 Stwórz funkcję, która **będzie zwracała** (poprzez ```return```) sumę liczb z tablicy. Tablica powinna być przekazana do funkcji jako argument.
@@ -55,7 +54,7 @@ output -> 6
 
 ### Zadanie 5 (~ 5min - 10min)
 
-Stwórz funkcję anonimową i przypisz ją do zmiennej. Zadaniem funkcji jest wypisanie dziesięć razy: "Gdy piszę kod zawszę i wszędzie używam funkcji oraz nie tworzę zmiennych globalnych".
+Stwórz funkcję anonimową i przypisz ją do zmiennej. Zadaniem funkcji jest wypisanie dziesięć razy: "Gdy piszę kod zawsze i wszędzie używam funkcji oraz nie tworzę zmiennych globalnych".
 
 ### Zadanie 6 (~ 15min - 20min)
 Napisz funkcję ```rentCost(days)```, która będzie pobierać liczbę dni jako argument, a następnie wyliczać koszt wynajmu pokoju według podanego wzoru:
@@ -86,7 +85,7 @@ Funkcja ma zwracać jeden z czterech napisów:
 * "Błędne informacje".
 
 Przykład:
-```JavaScrit
+```JavaScript
 input -> "papier", "nozyce"
 output -> "Gracz 2 wygrał"
 ```
@@ -96,7 +95,7 @@ Napisz funkcję ```calculateTip(amount, raiting)```, która będzie przyjmować 
 * kwotę do zapłaty,
 * opis słowny obsługi.
 Jeśli opis jest taki jak zdefiniowano poniżej, funkcja ma zwracać kwotę napiwku, jeśli opis jest nieznany &ndash; funkcja powinna zwracać napis "Opis nieczytelny".
-s
+
 Opis może przyjmować następujące wartości:
 "Bardzo dobra obsluga" => 25% napiwku,
 "Dobra obsluga" => 20% napiwku,
@@ -104,7 +103,7 @@ Opis może przyjmować następujące wartości:
 "Zla obsluga" => 0% napiwku.
 
 Przykład:
-```JavaScrit
+```JavaScript
 input -> 100, "Bardzo dobra obsluga"
 output -> 25
 ```
